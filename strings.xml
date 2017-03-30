@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name_hint">Full Name</string>
+
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+
+    <string name="decrement">-</string>
+    <string name="default_coffees">1</string>
+    <string name="increment">+</string>
+    <string name="quantity">QUANTITY</string>
+
+    <string name="price">PRICE</string>
+    <string name="default_price">$2.75</string>
+
+    <string name="submit_order">SUBMIT ORDER</string>
+    <string name="name_error">* Please enter a name</string>
+
+
+    <string name="email_subject">New Just Java Order for %1$s</string>
+    <string name="toppings_included">Toppings Included: </string>
+    <string name="no_toppings"> (none)</string>
+    <!--Name, number of coffees, toppings, cost-->
+    <string name="order_summary">Order Summary: %1$sQuantity: %2$d%3$sTotal: %4$s</string>
+
+</resources>
